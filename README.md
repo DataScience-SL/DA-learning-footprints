@@ -40,3 +40,11 @@ Tư duy phân tích dữ liệu (data analysis mindset) là một cách suy ngh�
 - Xem xét đạo đức: Nhận thức về những tác động đạo đức của phân tích dữ liệu, bao gồm quyền riêng tư, an ninh và các sai lệch có thể có. Tuân thủ các hướng dẫn đạo đức và đảm bảo sự công bằng và minh bạch trong các thực hành phân tích dữ liệu.
 
 Phát triển tư duy phân tích dữ liệu đòi hỏi sự kết hợp giữa các kỹ năng kỹ thuật, khả năng tư duy phản biện và sự hăng hái khám phá và thu nhận thông tin từ dữ liệu. Nó bao gồm việc thừa nhận sức mạnh của việc đưa ra quyết định dựa trên dữ liệu và tận dụng các công cụ và kỹ thuật phân tích để khám phá thông tin có giá trị.
+## Determine:
+### Database
+### Data warehouse
+### Data lake
+### Data mart
+### Data lakehouse
+### Data fabric
+### Data mesh
